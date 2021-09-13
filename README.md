@@ -3,12 +3,12 @@
 ## 🚀 Minhas Skills
 
 <div>
-  <a href="https://github.com/luixfds">
+  <a href="https://github.com/GabrielCabral352">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luixfds&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luixfds&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-<img  height="180em" align="right" alt="Luix" src="https://c.tenor.com/x0OZJJFjCRQAAAAC/monkey-pissed.gif">
+<img  height="180em" align="right" alt="Cabral" src="https://c.tenor.com/x0OZJJFjCRQAAAAC/monkey-pissed.gif">
   
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/></code>
