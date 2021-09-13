@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luixfds&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-<img  height="180em" align="right" alt="Luix" src="https://tenor.com/view/monkey-pissed-mad-angry-furious-gif-4720563">
+<img  height="180em" align="right" alt="Luix" src="https://c.tenor.com/x0OZJJFjCRQAAAAC/monkey-pissed.gif">
   
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/></code>
