@@ -23,6 +23,9 @@
 <code><img height="32" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-icone.png" alt="Discord"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Code"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" alt="PyCharm"/></code>
+  
+  
+  <code><img height="32" src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png" alt="PyCharm"/></code>
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=white&color=0099ff)](https://twitter.com/biel_cgl)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=for-the-badge&logo=Instagram&logoColor=white&color=ff0066)](https://www.instagram.com/_cabrallima/)
