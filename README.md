@@ -1,7 +1,7 @@
 ## 💙 Prazer, eu sou o <strong>Gabriel!</strong>
 
 ## 🚀 Minhas Skills
-<img  height="350em" align="right" alt="Cabral" src="https://c.tenor.com/x0OZJJFjCRQAAAAC/monkey-pissed.gif">
+<img  height="370em" align="right" alt="Cabral" src="https://c.tenor.com/x0OZJJFjCRQAAAAC/monkey-pissed.gif">
 <div>
   
   <a href="https://github.com/GabrielCabral352">
