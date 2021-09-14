@@ -25,7 +25,7 @@
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" alt="PyCharm"/></code>
 <code><img height="32" src="https://cdn.freebiesupply.com/logos/large/2x/c-logo-png-transparent.png" alt=""/></code>
 <code><img height="32" src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png" alt="PyCharm"/></code>
-<code><img height="32" src=" https://th.bing.com/th/id/R.74e943d82452f81f6a0bb0b51ac6785d?rik=QGo8A6Ii7vx%2bow&pid=ImgRaw&r=0" alt=""/></code>
+<code><img height="32" src=" https://th.bing.com/th/id/R.74e943d82452f81f6a0bb0b51ac6785d?rik=QGo8A6Ii7vx%2bow&pid=ImgRaw&r=0" alt="aaa"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/480px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" alt="PyCharm"/></code>
  
   
