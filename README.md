@@ -1,9 +1,9 @@
 ## 💙 Prazer, eu sou o <strong>Gabriel!</strong>
 
 ## 🚀 Minhas Skills
-
+<img  height="180em" align="right" alt="Cabral" src="https://c.tenor.com/x0OZJJFjCRQAAAAC/monkey-pissed.gif">
 <div>
-  <img  height="180em" align="right" alt="Cabral" src="https://c.tenor.com/x0OZJJFjCRQAAAAC/monkey-pissed.gif">
+  
   <a href="https://github.com/GabrielCabral352">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=GabrielCabral352&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCabral352&layout=compact&langs_count=7&theme=github_dark"/>
