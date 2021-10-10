@@ -41,6 +41,6 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/https://www.linkedin.com/in/gabriel-cabral-223649203/)
 
 
-[comment]: <> ![Snake animation](https://github.com/GabrielCabral352/GabrielCabral352/blob/output/github-contribution-grid-snake.svg)
+
 
   
