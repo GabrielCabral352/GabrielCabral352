@@ -5,6 +5,8 @@
 <a href="https://github.com/GabrielCabral352">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCabral352&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCabral352&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=for-the-badge&logo=Instagram&logoColor=white&color=ff0066)](https://www.instagram.com/_cabrallima/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/gabriel-cabral-223649203/)
 </div>
 
 
@@ -35,8 +37,7 @@
 
   
  
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=for-the-badge&logo=Instagram&logoColor=white&color=ff0066)](https://www.instagram.com/_cabrallima/)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/gabriel-cabral-223649203/)
+
 
 
 
