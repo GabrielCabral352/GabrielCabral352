@@ -36,7 +36,7 @@
   
  
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=for-the-badge&logo=Instagram&logoColor=white&color=ff0066)](https://www.instagram.com/_cabrallima/)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/gabriel-cabral-223649203/)
+[![LinkedIn Badge]](https://www.linkedin.com/in/gabriel-cabral-223649203/)
 
 
 
