@@ -2,7 +2,7 @@
 
 ## 🚀 Minhas Skills
 
-<div>
+<div height="200em" >
   
   <a href="https://github.com/GabrielCabral352">
   <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=GabrielCabral352&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
