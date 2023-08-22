@@ -41,8 +41,11 @@ class About extends Me
             Azure::class,
             Aws::class,
             Node::class,
-            RestAPI:class,
-            ORM:class,
+            RestAPI::class,
+            ORM::class,
+            SQL::class,
+            NoSQL::class,
+            Postgre::class,
         ];
     }
 
