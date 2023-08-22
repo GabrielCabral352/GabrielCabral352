@@ -1,4 +1,6 @@
 <p align="center">
   
-    ##Gabriel Cabral
+    <h1>
+      Gabriel Cabral
+    </h1>
 </p>
