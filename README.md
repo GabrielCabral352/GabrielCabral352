@@ -13,7 +13,7 @@
 
 ```java
 
-namespace AshBaker;
+namespace Gabriel Cabral;
 
 class About extends Me
 {
@@ -21,8 +21,8 @@ class About extends Me
     {
         return [
             'workplace' => [
-                'company' => 'Qquicker',
-                'position' => 'Founder'         
+                'company' => 'Bosch',
+                'position' => 'Backend Developer'         
             ]
         ];
     }
@@ -30,13 +30,13 @@ class About extends Me
     public function getDailyKnowledge(): array
     {
         return [
-            Php::class,
+            PHP::class,
             Javascript::class,
-            Laravel::class,
+            Python::class,
             Vuejs::class,
-            Angular::class,
             ReactNative::class,
-            TailwindCss::class,
+            SASS::class,
+            Azure::class,
             Aws::class,
         ];
     }
