@@ -31,14 +31,18 @@ class About extends Me
     public function getDailyKnowledge(): array
     {
         return [
+            Python::class,
             PHP::class,
             Javascript::class,
-            Python::class,
+            Java::class,
             Vuejs::class,
             ReactNative::class,
             SASS::class,
             Azure::class,
             Aws::class,
+            Node::class,
+            Rest API:class,
+            ORM:class,
         ];
     }
 
